@@ -1,0 +1,18 @@
+.audio-back{
+    width:80%;
+    height: 120px;
+    margin:0 auto;
+}
+
+.audio-select{
+    padding-left: 2%;
+    padding-top: 1%;
+    padding-right: 80%;
+    float:left;
+}
+
+.audio-player{
+    margin-left: 2%;
+    margin-top: 1%;
+    float:left;
+}

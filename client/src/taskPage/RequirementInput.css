@@ -1,0 +1,19 @@
+.requirement-input-back{
+    width:80%;
+    height:40px;
+    margin:0 auto;
+}
+
+.requirement-input-title{
+    font-size: 18px;
+    padding-left: 2%;
+    padding-right: 2%;
+    float:left;
+    margin:0;
+}
+
+.requirement-input{
+    width: 10%;
+    float:right;
+    margin-right: 70%;
+}

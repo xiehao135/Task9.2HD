@@ -1,0 +1,24 @@
+.wall-backgroud{
+  width:80%;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.select-button{
+  padding-left: 2%;
+  padding-top: 1%;
+  float:left;
+}
+
+.selected-image-back{
+  width: 100%;
+  float:left;
+}
+
+.selected-image{
+  float:left;
+  width:140px;
+  border:1px solid black;
+  margin-left: 2%;
+  margin-top: 1%;
+}
